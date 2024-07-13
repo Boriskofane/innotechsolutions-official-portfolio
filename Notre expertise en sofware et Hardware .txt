@@ -1,0 +1,17 @@
+Developement des Softwares et Hardwares:
+
+. Contrôle des moteurs 
+  -> Développement de pilotes des moteurs
+. Programmation des interfaces telles que: 
+  -> Ethernet
+  -> UART/USART
+  -> SPI
+  -> USB
+  -> Convertisseurs AD/DA
+. Implementation des protocoles internet tels que
+  -> TCP/IP
+  -> HTTP
+. Développement de logiciels
+  -> Pour des systems semi ou entierement automatises
+  -> Pour usage personnel (traitement de donnees, screen Monitoring etc...)
+
